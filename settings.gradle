@@ -1,0 +1,2 @@
+include ':app', ':FaceRecognitionLibrary'
+include ':openCVLibrary320'
