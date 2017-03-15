@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\userta\\5113100112\\TA\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\userta\\5113100112\\TA\\FaceRecognitionLibrary\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "E:\\TA\\FaceRecognitionSikemasTC\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "E:\\TA\\FaceRecognitionSikemasTC\\FaceRecognitionLibrary\\src\\main\\res\\xml\\preferences.xml"
     }

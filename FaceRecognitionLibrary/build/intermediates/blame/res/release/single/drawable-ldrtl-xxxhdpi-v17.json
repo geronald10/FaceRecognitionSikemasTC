@@ -1,11 +1,23 @@
 [
     {
+        "merged": "D:\\userta\\5113100112\\TA\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\5113100112\\.android\\build-cache\\177eaa7d22c43acde10a3bdbb59e793774488c03\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\userta\\5113100112\\TA\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\5113100112\\.android\\build-cache\\177eaa7d22c43acde10a3bdbb59e793774488c03\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "E:\\TA\\FaceRecognitionSikemasTC\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\Goronald\\.android\\build-cache\\ada5f0c52a80a6f4b8d3789a64ba108abc86faf6\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\TA\\FaceRecognitionSikemasTC\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
         "source": "C:\\Users\\Goronald\\.android\\build-cache\\ada5f0c52a80a6f4b8d3789a64ba108abc86faf6\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\userta\\5113100112\\TA\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\5113100112\\.android\\build-cache\\177eaa7d22c43acde10a3bdbb59e793774488c03\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "E:\\TA\\FaceRecognitionSikemasTC\\FaceRecognitionLibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
