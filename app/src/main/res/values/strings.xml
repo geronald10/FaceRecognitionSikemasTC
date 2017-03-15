@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FaceRecognitionSikemasTC</string>
+    <string name="validasi_tanda_tangan_btn_label">validasi Tanda Tangan</string>
+    <string name="validasi_wajah_btn_label">validasi Wajah</string>
+    <string name="tambah_set_wajah_btn_label">Tambah Set Wajah</string>
+    <string name="detection_view_btn_label">Detection View</string>
 </resources>
