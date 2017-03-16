@@ -7,15 +7,12 @@
     <uses-feature
         android:name="android.hardware.camera"
         android:required="false" />
-
     <uses-feature
         android:name="android.hardware.camera.autofocus"
         android:required="false" />
-
     <uses-feature
         android:name="android.hardware.camera.front"
         android:required="false" />
-
     <uses-feature
         android:name="android.hardware.camera.front.autofocus"
         android:required="false" />
@@ -39,7 +36,11 @@
         <activity android:name=".activity.ValidasiTtd" />
         <activity android:name=".activity.MenuValidasiWajah" />
         <activity android:name=".activity.AddSetWajahActivity" />
-        <activity android:name=".activity.DetectionActivity"
+        <activity
+            android:name=".activity.DetectionActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity android:name=".activity.AddSetWajahPreviewActivity"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
     </application>
