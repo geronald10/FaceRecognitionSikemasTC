@@ -40,9 +40,13 @@
             android:name=".activity.DetectionActivity"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-        <activity android:name=".activity.AddSetWajahPreviewActivity"
+        <activity
+            android:name=".activity.AddSetWajahPreviewActivity"
             android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity android:name=".activity.RecognitionActivity" />
+        <activity android:name=".activity.TrainingActivity" />
+        <activity android:name=".activity.TestActivity"></activity>
     </application>
 
 </manifest>

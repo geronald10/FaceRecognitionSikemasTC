@@ -4,4 +4,6 @@
     <string name="validasi_wajah_btn_label">validasi Wajah</string>
     <string name="tambah_set_wajah_btn_label">Tambah Set Wajah</string>
     <string name="detection_view_btn_label">Detection View</string>
+    <string name="recognition_training_btn_label">recognition training</string>
+    <string name="recognition_view_btn_label">Recognition View</string>
 </resources>
